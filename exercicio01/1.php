@@ -1,3 +1,5 @@
+<!--  3 Verificar Número Par ou Ímpar*  
+   Escreva uma função que receba um número e retorne se ele é par ou ímpar. -->
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
